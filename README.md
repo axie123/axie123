@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @axie123
-- 👀 I’m interested in RL, Deep Learning, Multi-Task Learning, Meta-Learning, and Computer Vision.
+- 👀 I’m interested in RL, Deep Learning, Multi-Task Learning, Meta-Learning, Software Applications, and Computer Vision.
 - 🌱 I’m currently studying at the University of Toronto in Canada.
 - 💞️ I’m looking for full-time SWE and ML positions in industry, and AI research positions.
 - 📫 How to reach me: contact me at ruo.cxie@gmail.com or ruoc.xie@mail.utoronto.ca
