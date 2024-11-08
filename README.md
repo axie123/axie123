@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axie123
-- 👀 I’m interested in Deep Learning, AI, ML, Scable Software Applications, and Optimization.
-- 🌱 I've recently graduated from the University of Toronto's EngSci program in Canada.
+- 👀 I’m interested in Distributed Systems, Scalable Software Services, ML/AI, and just problem-solving in general.
+- 🌱 Was on the real-time analytics team at Uber. Graduated from Engsci at UToronto.
 - 📫 How to reach me: contact me at ruo.cxie@gmail.com
 
 <!---
