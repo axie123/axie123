@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axie123
-- 👀 I’m interested in Large-Scale Distributed Systems, ML/AI, and just problem-solving in general.
-- 🌱 Was on the real-time analytics team at Uber. Graduated from Engsci at UToronto.
+- 👀 I’m interested in Production-Ready Large-Scale Distributed Systems, ML/AI, and just problem-solving in general.
+- 🌱 At Google. Was on the real-time analytics team at Uber. Graduated from Engsci at UToronto.
 - 📫 How to reach me: contact me at ruo.cxie@gmail.com
 
 <!---
